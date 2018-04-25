@@ -10,3 +10,4 @@ languages:
 type: 
   - lab
 resources: 2
+parent_template: git@github.com:learn-co-curriculum/rails-index-show-new-create-lab.git
