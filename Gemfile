@@ -38,6 +38,7 @@ group :development, :test do
   gem "capybara"
   gem "database_cleaner"
   gem "factory_bot_rails"
+  gem "pry"
   gem "rspec-rails", ">= 3.5.2"
   gem "spring"
 end
