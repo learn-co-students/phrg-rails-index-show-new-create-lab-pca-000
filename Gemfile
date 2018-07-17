@@ -39,5 +39,6 @@ group :development, :test do
   gem "database_cleaner"
   gem "factory_bot_rails"
   gem "rspec-rails", ">= 3.5.2"
+  gem "rubocop", "0.58.1"
   gem "spring"
 end
